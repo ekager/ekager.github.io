@@ -13,7 +13,7 @@ categories: writing
 
 #### Need it to be free and easy?  :dollar:
 
-**You came to the right place!**
+#### You came to the right place!
 
 ## Let's get started!
 ### What you'll need!

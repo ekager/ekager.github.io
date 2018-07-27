@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.3"
 
-gem "jekyll-swiss"
+gem "github-pages", group: :jekyll_plugins
 gem 'jemoji'
 
 
