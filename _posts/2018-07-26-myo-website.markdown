@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Make A Website With Blog in 20 Minutes"
+title:  "How to Make A Website And Blog in 20 Minutes"
 date:   2018-07-26 18:59:05 -0700
 categories: writing
 ---
@@ -24,8 +24,8 @@ You came to the right place!
 ### First we're going to need to set up some things
 * Text editor
 * Homebrew
-* Ruby
-* Jekyll
+* Ruby + Gem
+* Jekyll + Bundler
 * Git + GitHub
 
 ### Text Editor
@@ -50,7 +50,10 @@ If you get lost in your directories, you can just run `cd` at any time to go to 
 You can also kill a process currently running on the command line with `Ctrl + C`.
 
 ### Ruby :gem:
-[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you need or want to update, it's easiest to do that through Homebrew. Gem is Ruby's package manager, which lets you easily install ruby libraries and programs
+[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you need or want to update, it's easiest to do that through Homebrew.
+
+#### Gem
+Gem is Ruby's command line tool for package managing, which lets you easily install Ruby libraries and programs (referred to as Gems).
 
 ### Homebrew :beer:
 [Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
