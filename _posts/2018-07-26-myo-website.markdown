@@ -93,7 +93,7 @@ Congrats you're now using version control!
 
 If you don't have an account it's free to sign up and if you're a student make sure to sign up for a [Student account](https://education.github.com/pack) with lots of free goodies!
 
-Following the pages tutorial, [create a repository](https://github.com/new) named username.github.io, where username is *your* username (or organization name) on GitHub. So my repository is named `ekager.github.io`. **Make sure it matches your username, or it won't work.**
+Following the pages tutorial, [create a repository](https://github.com/new) named `username.github.io`, where username is *your* username (or organization name) on GitHub. So my repository is named `ekager.github.io`. **Make sure it matches your username, or it won't work.**
 
 ### Let's get your site up there
 Good job setting up Git and GitHub!
