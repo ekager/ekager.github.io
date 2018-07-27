@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "How to Make A Website And Blog in 20 Minutes"
+title:  "How to Make A Free Website And Blog in 20 Minutes Or Less"
 date:   2018-07-26 18:59:05 -0700
 categories: writing
 ---
 
-Do you want a personal website?  :computer:
+#### Do you want a personal website?  :computer:
 
-Want it to be a nice looking static site?  :sparkles:
+#### Want it to be a nice looking static site?  :sparkles:
 
-Maybe with blog capabilities?  :pencil:
+#### Maybe with blog capabilities?  :pencil:
 
-Need it to be free and easy?  :dollar:
+#### Need it to be free and easy?  :dollar:
 
-You came to the right place!
+**You came to the right place!**
 
 ## Let's get started!
 ### What you'll need!
@@ -133,7 +133,7 @@ Go to the text editor, and open your project folder. You should see a file named
 
 ### Themes
 
-There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile to add the new library like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I set to `theme_color: blue`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
+There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile to add the new library like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I set to `theme_color: magenta`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
 
 #### Overriding theme elements
 
@@ -162,7 +162,7 @@ categories: writing
 ---
 ```
 
-Fun fact: when writing in Markdown and using Atom, you can type `Ctrl+Shift+M` to preview your post formatted!
+**Fun fact: when writing in Markdown and using Atom, you can type `Ctrl+Shift+M` to preview your post formatted!**
 
 ### Link Your Own Domain
 Want to use your own domain? No problem! The exact instructions will depend on where you buy your domain name.
