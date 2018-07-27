@@ -56,7 +56,8 @@ You can also kill a process currently running on the command line with `Ctrl + C
 Gem is Ruby's command line tool for package managing, which lets you easily install Ruby libraries and programs (referred to as Gems).
 
 ### Homebrew :beer:
-[Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
+[Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing:
+ `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
 
 To update versions of all of your Homebrew installed packages, you just type `brew upgrade` and then `brew cleanup` to remove the older files.
 
@@ -94,7 +95,7 @@ If you don't have an account it's free to sign up and if you're a student make s
 
 Following the pages tutorial, [create a repository](https://github.com/new) named username.github.io, where username is *your* username (or organization name) on GitHub. So my repository is named `ekager.github.io`. **Make sure it matches your username, or it won't work.**
 
-## Let's get your site up there
+### Let's get your site up there
 Good job setting up Git and GitHub!
 
 In your directory, you're going to want to connect the site that's running locally to GitHub so it can host it for everyone else to see!
@@ -124,9 +125,7 @@ Now when you edit files or add posts, you'll just have to run steps 1-3 again to
 Congrats you have a website! Now let's make it yours.
 
 ## Make it Yours
-Great job with all the set up! Let's explore how to make the site about you!
-
-There's a ton to customize, but I'll go into a few quick ways to make it yours.
+There's a ton to customize, but I'll go into a few quick and easy ways.
 
 ### Customize
 
