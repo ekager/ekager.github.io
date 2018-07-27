@@ -110,7 +110,7 @@ Make sure you're in the project directory and then execute these three commands.
 3. Lastly run `git push -u origin master` to push your new website files from local to remote (GitHub).
 
 
-** A note on git add: **
+**A note on git add:**
 
 * `git add -A` - track All files
 * `git add .` - track new and modified, without deleted
