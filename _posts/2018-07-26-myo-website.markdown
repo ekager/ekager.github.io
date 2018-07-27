@@ -47,10 +47,10 @@ For example if my file system was like: `~/ImportantStuff/importantfile.txt`, I 
 
 If you get lost in your directories, you can just run `cd` at any time to go to your home directory. `~` represents your home directory. Your home directory is the directory that you're in after logging into the system. You're probably familiar with this as the place where your "Documents", "Downloads", and "Pictures" folders reside.
 
-You can also kill any process running via the command line with `Ctrl + C`.
+You can also kill a process currently running on the command line with `Ctrl + C`.
 
 ### Ruby :gem:
-[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you need or want to update, it's easiest to do that through Homebrew.
+[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you need or want to update, it's easiest to do that through Homebrew. Gem is Ruby's package manager, which lets you easily install ruby libraries and programs
 
 ### Homebrew :beer:
 [Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
@@ -60,7 +60,7 @@ To update versions of all of your Homebrew installed packages, you just type `br
 ### Jekyll
 Good job installing everything so far!
 
-Now we're going to get [Jekyll](https://jekyllrb.com/), which drives the static site creation. Just type `gem install bundler jekyll` in your command line to get it.
+Now we're going to get [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/). Jekyll is the static site generator written in Ruby and Bundler manages Gems. Just type `gem install bundler jekyll` in your command line to get both.
 
 Now we can actually create your website! In one command we create a basic empty site in the current directory with all the files you need. Are you ready?
 
@@ -101,16 +101,16 @@ The repository is still looking pretty empty though, so let's send the new files
 
 #### Three steps to push your changes to your repository
 Make sure you're in the project directory and then execute these three commands.
-1. `git add .` to tell git what *added* files you want to track changes of.
+1. `git add .` to tell git what *added* files in the working directory you want to track changes of.
 2. Then run `git commit -m "Initial Commit"`. A commit marks the tracked files as done being changed (for now). The `-m` is for adding your commit message.
 3. Lastly run `git push -u origin master` to push your new website files from local to remote (GitHub).
 
 
 ** A note on git add: **
 
-* `git add -A` - stages All files
-* `git add .` - stages new and modified, without deleted
-* `git add -u` - stages modified and deleted, without new
+* `git add -A` - track All files
+* `git add .` - track new and modified, without deleted
+* `git add -u` - track modified and deleted, without new
 
 To check which files you're about to commit, run `git status` before committing.
 
@@ -167,3 +167,6 @@ You created a great looking static website with blog capabilities, congratulatio
 
 ### Final Thoughts
 You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin master` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above.
+
+### Thanks
+Thanks to my siblings for testing and editing this tutorial. Without them, this post would have way more exclamation points.
