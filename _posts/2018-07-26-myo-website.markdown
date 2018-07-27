@@ -133,7 +133,7 @@ Go to the text editor, and open your project folder. You should see a file named
 
 ### Themes
 
-There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I quickly did to `theme_color: blue`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
+There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile to add the new library like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I set to `theme_color: blue`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
 
 ### Write a blog post
 Since you did the Jekyll quick start, you should see a post already there that you can modify and copy to create new posts!
