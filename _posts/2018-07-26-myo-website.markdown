@@ -5,13 +5,13 @@ date:   2018-07-26 18:59:05 -0700
 categories: writing
 ---
 
-Do you want a personal website?
+Do you want a personal website?  :computer:
 
-Want it to be a nice looking static site?
+Want it to be a nice looking static site?  :sparkles:
 
-Maybe with blog capabilities?
+Maybe with blog capabilities?  :pencil:
 
-Need it to be free and easy?
+Need it to be free and easy?  :money_with_wings:
 
 You came to the right place!
 
@@ -21,7 +21,7 @@ You came to the right place!
 * A Mac
 * A little familiarity with the command line would be helpful but not absolutely necessary!
 
-### First we're going to need to download some things
+### First we're going to need to set up some things
 * Text editor
 * Homebrew
 * Ruby
@@ -43,16 +43,16 @@ The `cd` command, also known as chdir (change directory), is a command line comm
 
 The `ls` command lists the files and folders in the current directory.
 
-For example if my file system was like: `~/ImportantStuff/importantfile.txt` I could `cd ImportantStuff` to get into the ImportantStuff folder and then run `ls` to see all the files in ImportantStuff.
+For example if my file system was like: `~/ImportantStuff/importantfile.txt`, I could `cd ImportantStuff` to get into the ImportantStuff folder and then run `ls` to see all the files in ImportantStuff.
 
 If you get lost in your directories, you can just run `cd` at any time to go to your home directory. `~` represents your home directory. Your home directory is the directory that you're in after logging into the system. You're probably familiar with this as the place where your "Documents", "Downloads", and "Pictures" folders reside.
 
 You can also kill any process running via the command line with `Ctrl + C`.
 
-### Ruby
+### Ruby :gem:
 [Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you need or want to update, it's easiest to do that through Homebrew.
 
-### Homebrew
+### Homebrew :beer:
 [Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
 
 To update versions of all of your Homebrew installed packages, you just type `brew upgrade` and then `brew cleanup` to remove the older files.
@@ -84,7 +84,7 @@ Now to start using version control for your project, make sure you're in the `yo
 
 Congrats you're now using version control!
 
-## GitHub
+## GitHub :octocat:
 [GitHub](https://github.com/) is an online service for hosting code that uses version control. Conveniently, it also gives every member a free site, called [GitHub Pages](https://pages.github.com/).
 
 If you don't have an account it's free to sign up and if you're a student make sure to sign up for a [Student account](https://education.github.com/pack) with lots of free goodies!
@@ -95,7 +95,7 @@ Following the pages tutorial, [create a repository](https://github.com/new) name
 Good job setting up Git and GitHub!
 
 In your directory, you're going to want to connect the site that's running locally to GitHub so it can host it for everyone else to see!
-Make sure you're in your project directory, and then run `git remote add origin https://github.com/username/username.github.io`. This connects your created repository with your new project!
+Make sure you're in your project directory, and then run `git remote add origin https://github.com/username/username.github.io`. This connects your created repository with your new project.
 
 The repository is still looking pretty empty though, so let's send the new files to the repository.
 
@@ -133,7 +133,7 @@ Go to the text editor, and open your project folder. You should see a file named
 
 There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I quickly did to `theme_color: blue`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
 
-### How to write a blog post
+### Write a blog post
 Since you did the Jekyll quick start, you should see a post already there that you can modify and copy to create new posts!
 
 It is easy to use the Markdown language to format posts. According to Wikipedia:
@@ -163,7 +163,7 @@ Want to use your own domain? No problem! The exact instructions will depend on w
 Generally, you'll have to buy a domain name and then hook up the domain name to point to your free Github address, and then tell you GitHub repo with a created CNAME file. A [great tutorial with photos is here](https://hackernoon.com/custom-domain-on-github-pages-tutorial-using-namecheap-7112bf2b8882).
 
 ## Finally
-You created a great looking website with blog capabilities, congratulations!
+You created a great looking static website with blog capabilities, congratulations! :tada:
 
 ### Final Thoughts
 You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin master` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above.
