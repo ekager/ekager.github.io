@@ -34,7 +34,7 @@ Let's get you a text editor so that you can view, edit, and add files. I recomme
 If you know how to find your command line, then skip this step!
 To find your command line on Mac, go to Spotlight search and open "Terminal".
 
-[Here's](https://www.codecademy.com/learn/learn-the-command-line) a tutorial on the command line if you're interested in learning more, but I'll provide all the commands you need in this tutorial.
+[Here's a tutorial](https://www.codecademy.com/learn/learn-the-command-line) on the command line if you're interested in learning more, but I'll provide all the commands you need in this tutorial.
 
 The main thing you need to know for this tutorial is when I say "type a command into the command line" you just need to copy and paste it and press enter for it to run.
 
@@ -86,7 +86,7 @@ Congrats you're now using version control!
 
 If you don't have an account it's free to sign up and if you're a student make sure to sign up for a [Student account](https://education.github.com/pack) with lots of free goodies!
 
-Following the pages tutorial, [create a repository](https://github.com/new) named username.github.io, where username is your username (or organization name) on GitHub. So my repository is `ekager.github.io`. Make sure it matches your username, or it won't work!
+Following the pages tutorial, [create a repository](https://github.com/new) named username.github.io, where username is *your* username (or organization name) on GitHub. So my repository is `ekager.github.io`. Make sure it matches your username, or it won't work!
 
 ## Let's get your site up there
 Good job setting up Git and GitHub!
@@ -96,12 +96,12 @@ Make sure you're in your project directory, and then run `git remote add origin 
 
 The repository is still looking pretty empty though, so let's send the new files to the repository.
 
-Three steps!
+#### Three steps to push your changes to your repository!
 1. `git add .` to add every file you just created to the commit.
 2. Then run `git commit -m "Initial Commit"`. The `-m` is for message.
 3. Lastly run `git push -u origin master` to get push your new website files to GitHub!
 
-If you refresh your https://github.com/<username>.github.io you should see your new site, and going to <username>.github.io should now work!
+If you refresh your repository `https://github.com/<your-username>/<your-username>.github.io` you should see your new site, and going to <username>.github.io should now work!
 
 Now when you edit files or add posts, you'll just have to run steps 1-3 again to update the GitHub repository!
 
@@ -122,10 +122,12 @@ There are tons of free Jekyll themes out there, some more complicated than other
 ### How to write a blog post
 Since you did the Jekyll quick start, you should see a post already there that you can modify and copy to create new posts!
 
-I (and many people) are using the Markdown language to format posts. According to Wikipedia:
+It is easy to use the Markdown language to format posts. According to Wikipedia:
 ~~~~
 Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name
 ~~~~
+
+[Learn more about Markdown syntax!](https://guides.github.com/features/mastering-markdown/)
 
 To make a new post from scratch, all you have to do is add a new file to the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext`, where ext is the extension of the file (like `.markdown`) and the date is not in the future or it won't work. The post file has to include the necessary "front matter" which is like a header for each file.
 
@@ -140,7 +142,6 @@ categories: writing
 ```
 
 Fun fact: when writing in Markdown and using Atom, you can type `Ctrl+Shift+M` to preview your post formatted!
-
 
 ### Link Your Own Domain
 Don't want to have your site be .github.io? No problem, but it'll cost you. Not a lot though don't worry!
