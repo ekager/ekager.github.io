@@ -135,6 +135,11 @@ Go to the text editor, and open your project folder. You should see a file named
 
 There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile to add the new library like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I set to `theme_color: blue`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
 
+#### Overriding theme elements
+
+Find a theme you like but want to override some elements? To override the default structure and style of the theme, create the concerned directory at the root of your site, copy the file you wish to customize to that directory, and then edit the file. For example, to override the `_includes/head.html` file to specify a custom style path, create an `_includes directory`, copy `_includes/head.html` from the theme's gem folder to `<yoursite>/_includes` and start editing that file. When building your site, the files that you have edited and included will override the original theme files. See [minima theme customization instructions](https://github.com/jekyll/minima#customization) for more information.
+
+
 ### Write a blog post
 Since you did the Jekyll quick start, you should see a post already there that you can modify and copy to create new posts!
 
