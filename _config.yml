@@ -26,7 +26,7 @@ linkedin_username: ekager
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-theme_color: magenta
+theme_color: blue
 plugins:
   - jekyll-feed
 

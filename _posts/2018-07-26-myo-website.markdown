@@ -18,6 +18,7 @@ You came to the right place!
 ## Let's get started!
 ### What you'll need!
 * 20 Minutes
+* A Mac
 * A little familiarity with the command line would be helpful but not absolutely necessary!
 
 ### First we're going to need to download some things
@@ -28,44 +29,46 @@ You came to the right place!
 * Git + GitHub
 
 ### Text Editor
-Let's get you a text editor so that you can view, edit, and add files. I recommend [Atom](https://atom.io/). Download through the link there. Woohoo you already made it through Step 1!
+Let's get you a text editor so that you can view, edit, and add files. I recommend [Atom](https://atom.io/), and you can download it through that link.
 
 ### Command Line
 If you know how to find your command line, then skip this step!
 To find your command line on Mac, go to Spotlight search and open "Terminal".
 
-[Here's a tutorial](https://www.codecademy.com/learn/learn-the-command-line) on the command line if you're interested in learning more, but I'll provide all the commands you need in this tutorial.
+[Here's a tutorial on the command line](https://www.codecademy.com/learn/learn-the-command-line) if you're interested in learning more, but I'll provide all the commands you need in this tutorial.
 
 The main thing you need to know for this tutorial is when I say "type a command into the command line" you just need to copy and paste it and press enter for it to run.
 
-The `cd` command is also known as chdir (change directory), is a command-line command used to change the current working directory. This just basically means you can enter and exit folders like in Finder just on the command line!
-
-If you get lost in your directories, you can just run `cd` at any time to reset your command line adventures. You can also kill any process with `Ctrl + C`.
+The `cd` command, also known as chdir (change directory), is a command line command used to change the current working directory. This basically means you can enter folders like in Finder, just on the command line.
 
 The `ls` command lists the files and folders in the current directory.
 
-For example if my file system was like: `/Desktop/ImportantStuff/importantfile.txt` I could `cd Desktop` to get into my Desktop folder. `cd ImportantStuff` to get into the ImportantStuff folder and then `ls` to see the files in ImportantStuff.
+For example if my file system was like: `~/ImportantStuff/importantfile.txt` I could `cd ImportantStuff` to get into the ImportantStuff folder and then run `ls` to see all the files in ImportantStuff.
+
+If you get lost in your directories, you can just run `cd` at any time to go to your home directory. `~` represents your home directory. Your home directory is the directory that you're in after logging into the system. You're probably familiar with this as the place where your "Documents", "Downloads", and "Pictures" folders reside.
+
+You can also kill any process running via the command line with `Ctrl + C`.
 
 ### Ruby
-[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You may already have this! Wouldn't that be easy! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 should be fine. If you need or want to update, it's easiest to do that through Homebrew.
+[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you need or want to update, it's easiest to do that through Homebrew.
 
 ### Homebrew
 [Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
 
-Then, quickly install a new version of Ruby by typing `brew install ruby`.
-
-In the future it is so easy to update, you just type `brew upgrade` and then `brew cleanup` to remove the older files.
+To update versions of all of your Homebrew installed packages, you just type `brew upgrade` and then `brew cleanup` to remove the older files.
 
 ### Jekyll
-Good job installing everything so far! Now we're going to get [Jekyll](https://jekyllrb.com/), which drives the static site creation. Just type `gem install bundler jekyll` in your command line to get it!
+Good job installing everything so far!
 
-Woohoo now we can actually create your website! In one command we create a basic empty site with all the files you need! Are you ready?
+Now we're going to get [Jekyll](https://jekyllrb.com/), which drives the static site creation. Just type `gem install bundler jekyll` in your command line to get it.
+
+Now we can actually create your website! In one command we create a basic empty site in the current directory with all the files you need. Are you ready?
 
 `jekyll new your-awesome-site`
 
-And just replace `your-awesome-site` with whatever you want the project folder to be named!
+Just replace `your-awesome-site` with whatever you want the project folder to be named.
 
-Woohoo! You have a website! It may not seem like it yet, so let's prove it.
+You now have a website! It may not seem like it, so let's prove it.
 
 Use `cd your-awesome-site` to enter the project's folder (You'll see something like `(MacBook-Pro:your-awesome-site YourName$`), and then run `bundle exec jekyll serve` to run your site. It will output something like:
 ```
@@ -86,7 +89,7 @@ Congrats you're now using version control!
 
 If you don't have an account it's free to sign up and if you're a student make sure to sign up for a [Student account](https://education.github.com/pack) with lots of free goodies!
 
-Following the pages tutorial, [create a repository](https://github.com/new) named username.github.io, where username is *your* username (or organization name) on GitHub. So my repository is `ekager.github.io`. Make sure it matches your username, or it won't work!
+Following the pages tutorial, [create a repository](https://github.com/new) named username.github.io, where username is *your* username (or organization name) on GitHub. So my repository is named `ekager.github.io`. **Make sure it matches your username, or it won't work.**
 
 ## Let's get your site up there
 Good job setting up Git and GitHub!
@@ -96,28 +99,38 @@ Make sure you're in your project directory, and then run `git remote add origin 
 
 The repository is still looking pretty empty though, so let's send the new files to the repository.
 
-#### Three steps to push your changes to your repository!
-1. `git add .` to add every file you just created to the commit.
-2. Then run `git commit -m "Initial Commit"`. The `-m` is for message.
-3. Lastly run `git push -u origin master` to get push your new website files to GitHub!
+#### Three steps to push your changes to your repository
+Make sure you're in the project directory and then execute these three commands.
+1. `git add .` to tell git what *added* files you want to track changes of.
+2. Then run `git commit -m "Initial Commit"`. A commit marks the tracked files as done being changed (for now). The `-m` is for adding your commit message.
+3. Lastly run `git push -u origin master` to push your new website files from local to remote (GitHub).
 
-If you refresh your repository `https://github.com/<your-username>/<your-username>.github.io` you should see your new site, and going to <username>.github.io should now work!
+##### More Notes on Git Add
+Git Add | Second Header
+------------ | -------------
+git add -A | stages All
+git add .  |stages new and modified, without deleted
+git add -u  |stages modified and deleted, without new
 
-Now when you edit files or add posts, you'll just have to run steps 1-3 again to update the GitHub repository!
 
-Congrats you have a website!! Now let's make it yours!
+If you refresh your repository `https://github.com/<your-username>/<your-username>.github.io` you should see your new site, and loading `<username>.github.io` should show your site.
+
+Now when you edit files or add posts, you'll just have to run steps 1-3 again to update the GitHub repository.
+
+Congrats you have a website! Now let's make it yours.
 
 ## Make it Yours
 Great job with all the set up! Let's explore how to make the site about you!
-There's a ton to customize, but I'll go into a few ways to make it yours quickly!
+
+There's a ton to customize, but I'll go into a few quick ways to make it yours.
 
 ### Customize
 
-Go to the text editor, and open your project folder. You should see a file named `_config.yml`. Go through and change the info to be about you!
+Go to the text editor, and open your project folder. You should see a file named `_config.yml`. Go through and change the info to be about you.
 
 ### Themes
 
-There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I quickly did to `theme_color: magenta`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
+There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I quickly did to `theme_color: blue`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
 
 ### How to write a blog post
 Since you did the Jekyll quick start, you should see a post already there that you can modify and copy to create new posts!
@@ -144,14 +157,12 @@ categories: writing
 Fun fact: when writing in Markdown and using Atom, you can type `Ctrl+Shift+M` to preview your post formatted!
 
 ### Link Your Own Domain
-Don't want to have your site be .github.io? No problem, but it'll cost you. Not a lot though don't worry!
-
-The exact instructions will depend on where you buy your domain name.
+Want to use your own domain? No problem! The exact instructions will depend on where you buy your domain name.
 
 Generally, you'll have to buy a domain name and then hook up the domain name to point to your free Github address, and then tell you GitHub repo with a created CNAME file. A [great tutorial with photos is here](https://hackernoon.com/custom-domain-on-github-pages-tutorial-using-namecheap-7112bf2b8882).
 
 ## Finally
-You created a great looking website with blog capabilities! Congratulations!
+You created a great looking website with blog capabilities, congratulations!
 
 ### Final Thoughts
-You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin master` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above!
+You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin master` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above.
