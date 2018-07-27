@@ -105,13 +105,14 @@ Make sure you're in the project directory and then execute these three commands.
 2. Then run `git commit -m "Initial Commit"`. A commit marks the tracked files as done being changed (for now). The `-m` is for adding your commit message.
 3. Lastly run `git push -u origin master` to push your new website files from local to remote (GitHub).
 
-##### More Notes on Git Add
-Git Add | Second Header
------------- | -------------
-git add -A | stages All
-git add .  |stages new and modified, without deleted
-git add -u  |stages modified and deleted, without new
 
+** A note on git add: **
+
+* `git add -A` - stages All files
+* `git add .` - stages new and modified, without deleted
+* `git add -u` - stages modified and deleted, without new
+
+To check which files you're about to commit, run `git status` before committing.
 
 If you refresh your repository `https://github.com/<your-username>/<your-username>.github.io` you should see your new site, and loading `<username>.github.io` should show your site.
 
