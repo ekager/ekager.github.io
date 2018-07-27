@@ -11,6 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8.3"
 
 gem "jekyll-swiss"
+gem 'jemoji'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

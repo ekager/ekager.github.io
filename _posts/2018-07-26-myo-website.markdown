@@ -11,7 +11,7 @@ Want it to be a nice looking static site?  :sparkles:
 
 Maybe with blog capabilities?  :pencil:
 
-Need it to be free and easy?  :money_with_wings:
+Need it to be free and easy?  :dollar:
 
 You came to the right place!
 
