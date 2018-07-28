@@ -15,6 +15,9 @@ categories: writing
 
 #### You came to the right place!
 
+### Disclaimer
+I should clarify that there are actually quicker ways to make a blog with Jekyll, namely forking someone else's blog or template which there are [plenty of on GitHub](https://github.com/barryclark/jekyll-now). But if you're curious about the entire process from scratch, stay tuned!
+
 ## Let's get started!
 ### What you'll need!
 * 20 Minutes
@@ -129,11 +132,19 @@ There's a ton to customize, but I'll go into a few quick and easy ways.
 
 ### Customize
 
-Go to the text editor, and open your project folder. You should see a file named `_config.yml`. Go through and change the info to be about you.
+Go to the text editor, and open your project folder. You should see a file named `_config.yml`. Go through and change the info to be about your new site.
 
 ### Themes
 
-There are tons of free Jekyll themes out there, some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)). You just have to add a line to your Gemfile to add the new library like `gem "jekyll-swiss"` and then edit the `theme` in `config.yml`, in my case `theme: jekyll-swiss`. The theme I use also had a `theme_color` that I could edit, which I set to `theme_color: magenta`. Whenever you add a new gem, you'll have to run `bundle` in the command line to install the new gems before previewing it.
+First let's go to your Gemfile and remove `gem jekyll` and uncomment or add `gem "github-pages", group: :jekyll_plugins`. Run `bundle update github-pages` to update. This will give us access to the themes we want!
+
+There are [tons of free Jekyll themes out there](https://github.com/topics/jekyll-theme), some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)), you just have to add a line to your Gemfile and then edit the theme in `config.yml`. There may be more options to customize, so read the theme's documentation. For example, the theme I use also had a `theme_color` that I could edit, which I set to `theme_color: magenta` in `_config.yml`.
+
+To activate one of the [officially supported themes](https://pages.github.com/themes/), add `theme:` followed by the name of the theme in your Gemfile (as shown in the README in the theme's source repository).
+
+To activate any other open source Jekyll theme hosted on GitHub, add `remote_theme:` followed by the name of the theme (as shown in the README or other documentation in the theme's source repository) to `_config.yml`.
+
+I recommend following the documentation of the theme you choose to use for the best instructions. [Read more about adding a theme.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
 
 #### Overriding theme elements
 
