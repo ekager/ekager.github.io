@@ -16,7 +16,7 @@ categories: writing
 #### You came to the right place!
 
 ### Disclaimer
-I should clarify that there are actually quicker ways to make a blog with Jekyll, namely forking someone else's blog or template which there are [plenty of on GitHub](https://github.com/barryclark/jekyll-now). But if you're curious about the entire process from scratch, stay tuned!
+I should clarify that there are actually quicker ways to make a blog with Jekyll, namely forking someone else's blog or template which there are [plenty of on GitHub](https://github.com/barryclark/jekyll-now). But if you're curious about the entire process from scratch, being able to preview locally, version control, and customizing, stay tuned!
 
 ## Let's get started!
 ### What you'll need!
@@ -65,11 +65,9 @@ Gem is Ruby's command line tool for package managing, which lets you easily inst
 To update versions of all of your Homebrew installed packages, you just type `brew upgrade` and then `brew cleanup` to remove the older files.
 
 ### Jekyll
-Good job installing everything so far!
-
 Now we're going to get [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/). Jekyll is the static site generator written in Ruby and Bundler manages Gems. Just type `gem install bundler jekyll` in your command line to get both.
 
-Now we can actually create your website! In one command we create a basic empty site in the current directory with all the files you need. Are you ready?
+Now we actually have everything we need to create your website! In one command we can create a basic site in the current directory with all the files you need. Are you ready?
 
 `jekyll new your-awesome-site`
 
@@ -81,7 +79,7 @@ Use `cd your-awesome-site` to enter the project's folder (You'll see something l
 ```
 Server address: http://127.0.0.1:4000/
 ```
-Copy that address or just go to http://localhost:4000/ to see your site running locally!
+Copy that address or just go to [http://localhost:4000/](http://localhost:4000/) to see your site running locally!
 
 Now let's put it on the world wide web!
 
@@ -136,13 +134,13 @@ Go to the text editor, and open your project folder. You should see a file named
 
 ### Themes
 
-First let's go to your Gemfile and remove `gem jekyll` and uncomment or add `gem "github-pages", group: :jekyll_plugins`. Run `bundle update github-pages` to update. This will give us access to the themes we want!
+First let's go to your Gemfile and remove `gem jekyll` and uncomment or add `gem "github-pages", group: :jekyll_plugins`. Run `bundle update github-pages` to update the new Gem. This will let us preview the themes locally!
 
-There are [tons of free Jekyll themes out there](https://github.com/topics/jekyll-theme), some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)), you just have to add a line to your Gemfile and then edit the theme in `config.yml`. There may be more options to customize, so read the theme's documentation. For example, the theme I use also had a `theme_color` that I could edit, which I set to `theme_color: magenta` in `_config.yml`.
+To activate one of the [officially supported themes](https://pages.github.com/themes/), add `theme:` followed by the name of the theme in your `_config.yml` (as shown in the README in the theme's source repository).
 
-To activate one of the [officially supported themes](https://pages.github.com/themes/), add `theme:` followed by the name of the theme in your Gemfile (as shown in the README in the theme's source repository).
+To activate any other unofficial open source Jekyll theme hosted on GitHub, add `remote_theme: <theme-creators-github-username>/<theme-repo>` (as shown in the README or other documentation in the theme's source repository) to `_config.yml`.
 
-To activate any other open source Jekyll theme hosted on GitHub, add `remote_theme:` followed by the name of the theme (as shown in the README or other documentation in the theme's source repository) to `_config.yml`.
+There are [tons of free Jekyll themes out there](https://github.com/topics/jekyll-theme), some more complicated than others. For the simplest themes (like the [one I used for example](https://broccolini.net/swiss/about/)), you just have to edit the theme in `config.yml`. There may be more options to customize, so read the theme's documentation. For example, the theme I use also had a `theme_color` that I could edit, which I set to `theme_color: magenta` in `_config.yml`.
 
 I recommend following the documentation of the theme you choose to use for the best instructions. [Read more about adding a theme.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
 
@@ -161,7 +159,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
 
 [Learn more about Markdown syntax!](https://guides.github.com/features/mastering-markdown/)
 
-To make a new post from scratch, all you have to do is add a new file to the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext`, where ext is the extension of the file (like `.markdown`) and the date is not in the future or it won't work. The post file has to include the necessary "front matter" which is like a header for each file.
+To make a new post from scratch, all you have to do is add a new file to the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext`, where ext is the extension of the file (like `.markdown`) and the date is not in the future. The post file also has to include the necessary "front matter" which is like a header for each file.
 
 Example:
 ```
@@ -184,7 +182,7 @@ Generally, you'll have to buy a domain name and then hook up the domain name to 
 You created a great looking static website with blog capabilities, congratulations! :tada:
 
 ### Final Thoughts
-You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin master` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above.
+You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, or edit on multiple computers, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin master` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above.
 
 ### Thanks
 Thanks to my siblings for testing and editing this tutorial. Without them, this post would have way more exclamation points.
