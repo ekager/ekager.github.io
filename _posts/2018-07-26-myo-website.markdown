@@ -21,7 +21,7 @@ I should clarify that there are actually quicker ways to make a blog with Jekyll
 ## Let's get started!
 ### What you'll need!
 * 20 Minutes
-* A Mac
+* A computer (My exact experiences were with macOS, but should work with slight modification for another OS)
 * A little familiarity with the command line would be helpful but not absolutely necessary!
 
 ### First we're going to need to set up some things
@@ -55,10 +55,10 @@ You can also kill a process currently running on the command line with `Ctrl + C
 ### Ruby :gem:
 [Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you don't have it, you can install it through their website. If you need or want to update, it's easiest to do that through Homebrew.
 
-#### Gem
+##### Gem
 Gem is Ruby's command line tool for package managing, which lets you easily install Ruby libraries and programs (referred to as Gems).
 
-### Homebrew :beer:
+##### Homebrew :beer:
 [Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing:
  `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
 
