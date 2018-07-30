@@ -55,10 +55,10 @@ You can also kill a process currently running on the command line with `Ctrl + C
 ### Ruby :gem:
 [Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you don't have it, you can install it through their website. If you need or want to update, it's easiest to do that through Homebrew.
 
-##### Gem
+#### Gem
 Gem is Ruby's command line tool for package managing, which lets you easily install Ruby libraries and programs (referred to as Gems).
 
-##### Homebrew :beer:
+### Homebrew :beer:
 [Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing:
  `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
 
@@ -84,7 +84,7 @@ Copy that address or just go to [http://localhost:4000/](http://localhost:4000/)
 Now let's put it on the world wide web!
 
 ## Git
-[Git](https://git-scm.com/) is version control software that helps you keep track of changes in a project. To get it, run `brew install git` in the command line.
+[Git](https://git-scm.com/) is version control software that helps you keep track of changes in a project. If you have Homebrew, run `brew install git` in the command line to get it.
 Now to start using version control for your project, make sure you're in the `your-awesome-site` directory, and run `git init`.
 
 Congrats you're now using version control!
