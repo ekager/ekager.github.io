@@ -178,6 +178,10 @@ Want to use your own domain? No problem! The exact instructions will depend on w
 
 Generally, you'll have to buy a domain name and then hook up the domain name to point to your free Github address, and then tell your GitHub repo with a created CNAME file. A [great tutorial with photos is here](https://hackernoon.com/custom-domain-on-github-pages-tutorial-using-namecheap-7112bf2b8882).
 
+### Get a Favicon
+A favicon is the icon associated with your website in the URL bar or in a bookmarks list.
+First you'll need the favicon. I used this [favicon generator](https://favicon.io/) to create mine with text but you can also use a logo image you already have! Once you have the `favicon.ico` file, add it to the root of your project (you can drag and drop in finder or your text editor). Then you'll need to add `<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">` to the `head` of your `index.html` file. You may have to do an override to this file as mentioned above.
+
 ## Finally
 You created a great looking static website with blog capabilities, congratulations! :tada:
 
