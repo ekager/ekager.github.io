@@ -176,7 +176,7 @@ categories: writing
 ### Link Your Own Domain
 Want to use your own domain? No problem! The exact instructions will depend on where you buy your domain name.
 
-Generally, you'll have to buy a domain name and then hook up the domain name to point to your free Github address, and then tell you GitHub repo with a created CNAME file. A [great tutorial with photos is here](https://hackernoon.com/custom-domain-on-github-pages-tutorial-using-namecheap-7112bf2b8882).
+Generally, you'll have to buy a domain name and then hook up the domain name to point to your free Github address, and then tell your GitHub repo with a created CNAME file. A [great tutorial with photos is here](https://hackernoon.com/custom-domain-on-github-pages-tutorial-using-namecheap-7112bf2b8882).
 
 ## Finally
 You created a great looking static website with blog capabilities, congratulations! :tada:
