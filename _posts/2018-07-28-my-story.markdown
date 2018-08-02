@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "So You Want to Be a Software Engineer"
+date:   2018-07-28 17:42:05 -0700
+categories: writing
+---
+
+Here I am in 2015, graduating from undergrad with a degree in neuroscience and no concrete plans in place. Exactly two years later, I was starting a mobile developer internship at Mozilla.
+
+<p style="text-align:center;">
+<img src="https://i.imgur.com/psQ6lba.jpg" alt="Me graduating!" width="400px"/>
+<img src="https://i.imgur.com/Niwx115.jpg" alt="Internship Views" width="400px"/>
+</p>
+
+Both of my parents are doctors, and I likewise thought that would be my career... until I started working in labs and the concept of what medical school would look like became more clear. The debt, hours, and lost, best years of life made medicine a sacrifice I was unwilling to make.
+
+Even though I knew medical school wasn't for me, I struggled to find alternative career options through classes, and before I knew it, I was graduating with a degree in neuroscience and without concrete plans to become a healthcare provider. I ended up taking a job at a public health nonprofit through AmeriCorps VISTA, and this was perfect for my situation, giving me a structured year to work and figure out my next steps.
+
+I'm the type of person that likes to have a plan, so not having a concrete plan of action past a few months was one of the hardest things for me. I went through so many "what's next?" ideas in this time: going to med school after all, going to vet school, going to dental school, starting a business, going into food science, etc.
+
+Finally, I decided to try CS. I had always been interested in computers, but I grew up in a rural area and didn't know anyone who worked in tech. I started with [Harvard's CS50 course](https://cs50.harvard.edu/), which is an intro course at Harvard with a huge online presence. It was hard, but I liked it! So I looked into next steps.
+
+<p style="text-align:center;"><img src="https://i.imgur.com/1L17VFW.jpg" alt="Me as a kid on a computer" width="400px"/></p>
+
+## The post-bacc
+A post-baccalaureate (or post-bacc) program is for someone planning to pursue graduate studies in a field other than their undergrad studies. Usually, for someone who didn't complete pre-med classes but wants to go to medical school. Ironically, I had the pre-med classes, but didn't have any CS classes. I started researching CS post bacc programs, and found a college in Oakland that has a small [CS change career post-bacc program](https://catalog.mills.edu/graduate/programs/computer-science/post-baccalaureate-program/) where you have the chance to get an MA in Interdisciplinary Computer Science. Mills is a women centered college, with small class sizes and wonderful teachers. It was exactly what I needed to guide me to enter this sometimes hostile industry.
+
+Usually, the program is 2 years, but I was able to start some courses online over the summer to finish in 3 semesters. I started the program in August 2016 and finished in December 2017.
+
+## Internship
+CS internship recruiting is crazy and happens earlier and earlier every year. It usually starts in the fall for the next summer for large companies, but I was just starting my program in Fall 2016 and wasn't ready to seriously look and interview. In early 2017, I started looking for a summer internship. Luckily, that year Mozilla was still recruiting for the mobile team, which I had some open source and class project experience with, so I applied.
+
+Most companies (including Mozilla) will send out a challenge (commonly [HackerRank](https://www.hackerrank.com/)) as a first round interview. They usually are pretty straight forward in a language of your choice. After that you'll usually do a few phone or video interviews where you'll talk to engineers or managers. Finally, you may have an on-site interview, depending on the company.
+
+<p style="text-align:center;"><img src="https://i.imgur.com/fCvyydO.png" alt="Internship parties" width="400px"/></p>
+
+
+At the end of my internship I got a FT offer, and it was an easy yes! I worked part time as a student while I finished up my MA degree and wrote a thesis, and then joined the same Android team in early 2018.
+
+Here's my final presentation from that summer if you want to see what I was working on during my internship. [Check out Mozilla's university program](https://careers.mozilla.org/university/) and feel free to contact me with questions about working at Mozilla in general, I highly recommend it. :wink:
+
+<p style="text-align:center;">[![My intern presentation](https://img.youtube.com/vi/sof6lVIfdRU/0.jpg)](https://www.youtube.com/watch?v=sof6lVIfdRU)</p>
+
+
+## Bootcamp and post-bacc and self taught, oh my!
+To be honest, at the time that I made this decision, I didn't have the knowledge necessary to truly weigh the pros and cons of these two options. I decided on a post-bacc because I had just been in undergrad and it felt natural to go back to a college campus and the thought of getting another degree felt like a nice safety blanket. I also had gotten a refund from undergrad for a semester I took off that I could use for a college but not a bootcamp because of the type of savings account it was in. The college route also provided opportunities to be a TA which offset costs as well. One pro of going to a traditional college is it's generally easier to explain on a resume than a bootcamp, but that may be changing.
+
+Financially, your situation may be different than mine. There are many bootcamps these days that have innovative pay after you get a job tuition models that may work for you. Money is not the only cost, though. There are time costs to consider, in general bootcamps are shorter (though I've heard of multi-year bootcamps).
+
+The distinction between bootcamp and traditional routes is not a clear one. You can certainly succeed from either route. The only concrete advice I can give is to contact and talk to alumni about their experiences, visit the space if possible, and figure out what type of learning environment you'll thrive in.
+
+Another option of course is self taught. There are countless resources on the internet where you can go at your own pace and on your own budget. If you're going this route, I would recommend finding a mentor or a structured plan online that can let you know where to start. I personally needed a bit more learning structure to succeed, but I know plenty of successful self taught engineers!
+
+## The CS Hump Warning
+There's a hump that I think everyone hits when they start learning CS, where you solve a lot of problems, without a lot of projects. You can reverse a String or count spare change all day, but you don't really understand how this would ever be a job. My takeaway, from my own personal experience, is that someday it will click, and you'll understand how it all fits together. It's okay to not know everything. No one knows everything. There's no shame in looking things up on the internet, it's essential to learn how to to find what you need.
+
+Take opportunities to work on projects or open source to see how code can truly create, and don't give up before the :cool: part. I recommend making a personal website as an easy part of your resume, [which I have a tutorial for](/2018-07-26-myo-website.markdown).
+
+## A message to someone feeling lost
+First of all, it's okay. Our life worth is not determined by our current job or situation. I strongly recommend trying as many things as possible. Even if you hate something, knowing what you **don't** want to do is very important in the process. I also recommend doing informational interviews with friends and friends of friends with jobs or lifestyles that seem interesting to you. People love to talk about themselves.
+
+## A message to tech companies
+If you're reading this and wondering how to get more diverse interns and employees, I urge you to reconsider nontraditional routes. Not every good candidate has been coding since they were 6, some of us took a little longer to figure it all out.
