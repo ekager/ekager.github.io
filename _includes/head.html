@@ -11,8 +11,8 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   {% if page.image %}
-    <meta property="og:image" content="{{page.image}}" />
-    <meta name="twitter:image" content="{{page.image}}" />
+    <meta property="og:image" content="{{ page.image }}" />
+    <meta name="twitter:image" content="{{ page.image }}" />
   {% else %}
     <meta property="og:image" content="https://i.imgur.com/LF1AfZN.jpg" />
     <meta name="twitter:image" content="https://i.imgur.com/LF1AfZN.jpg" />
@@ -25,12 +25,12 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-
     <!-- I prefer the summary_large_image Twitter card for posts. -->
     <meta name="twitter:card" content="summary_large_image" />
     <!-- You, you're the creator. -->
     <meta name="twitter:creator" content="@EmilyKager" />
     <!-- This property is for the article title, not site title. -->
     <meta name="twitter:title" content="{{page.title}}" />
+
   <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
