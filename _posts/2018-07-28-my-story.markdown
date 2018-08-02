@@ -2,7 +2,7 @@
 layout: post
 title:  "So You Want to Be a Software Engineer"
 date:   2018-07-28 17:42:05 -0700
-image: https://i.imgur.com/psQ6lba.jpg
+image: https://i.imgur.com/1L17VFW.jpg
 categories: writing
 ---
 
