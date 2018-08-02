@@ -37,9 +37,7 @@ Most companies (including Mozilla) will send out a challenge (commonly [HackerRa
 
 At the end of my internship I got a FT offer, and it was an easy yes! I worked part time as a student while I finished up my MA degree and wrote a thesis, and then joined the same Android team in early 2018.
 
-Here's my final presentation from that summer if you want to see what I was working on during my internship. [Check out Mozilla's university program](https://careers.mozilla.org/university/) and feel free to contact me with questions about working at Mozilla in general, I highly recommend it. :wink:
-
-<p style="text-align:center;">[![My intern presentation](https://img.youtube.com/vi/sof6lVIfdRU/0.jpg)](https://www.youtube.com/watch?v=sof6lVIfdRU)</p>
+Here's [my final presentation from that summer](https://www.youtube.com/watch?v=sof6lVIfdRU) if you want to see what I was working on during my internship. [Check out Mozilla's university program](https://careers.mozilla.org/university/) and feel free to contact me with questions about working at Mozilla in general, I highly recommend it. :wink:
 
 
 ## Bootcamp and post-bacc and self taught, oh my!
