@@ -41,7 +41,7 @@ Most companies (including Mozilla) will send out a challenge (commonly [HackerRa
 
 At the end of my internship I got a full time offer, and it was an easy yes! I worked part time as a student while I finished up my MA degree and wrote a thesis, and then joined the same Android team in early 2018.
 
-Here's [my final presentation from that summer](https://www.youtube.com/watch?v=sof6lVIfdRU) if you want to see what I was working on during my internship. [Check out Mozilla's university program](https://careers.mozilla.org/university/) and feel free to contact me with questions about working at Mozilla in general, I highly recommend it. :wink:
+Here's [my final presentation from that summer](https://www.youtube.com/watch?v=sof6lVIfdRU) if you want to see what I was working on during my internship. [Check out Mozilla's university program](https://careers.mozilla.org/university/) and feel free to contact me with questions about working at Mozilla in general, I highly recommend it. 
 
 ## Bootcamp and post-bacc and self taught, oh my!
 To be honest, at the time that I made this decision, I didn't have the knowledge necessary to truly weigh the pros and cons of these two options. I decided on a post-bacc because I had just been in undergrad and it felt natural to go back to a college campus and the thought of getting another degree felt like a nice safety blanket. I also had gotten a refund from undergrad for a semester I took off that I could use for a college but not a bootcamp because of the type of savings account it was in. The college route also provided opportunities to be a TA which offset costs as well. One pro of going to a traditional college is it's generally easier to explain on a resume than a bootcamp, but that may be changing.
@@ -55,13 +55,10 @@ Of course, another option is self taught. There are countless resources on the I
 ## The CS Hump Warning
 There's a hump that I think everyone hits when they start learning CS where you solve a lot of problems without a lot of projects. You can reverse a String or count spare change all day, but you don't really understand how this would ever be useful in a real-world environment. Speaking from personal experiences, it will all someday click and you'll understand how everything fits together. It's okay to not know everything. No one knows everything. There's no shame in looking things up on the internet, it's essential to learn how to find what you need. Don't worry too much about which programming language you're learning. Programming languages come and go and the ability to learn will be the most important thing going into a career in tech.
 
-Take opportunities to work on personal or open-source projects to see what code and an idea can combine to create and don't give up before the :cool: part. I recommend making a personal website to add something easy to your resume, [which I have a tutorial for](/2018-07-26-myo-website.markdown).
+Take opportunities to work on personal or open-source projects to see what code and an idea can combine to create and don't give up before the cool part. I recommend making a personal website to add something easy to your resume, [which I have a tutorial for](/2018-07-26-myo-website.markdown).
 
 ## A message to someone feeling lost
 First of all, it's okay. Our life worth is not determined by our current job or situation. Whether tech related or not, I strongly recommend trying as many things as possible. Even if you hate something, knowing what you **don't** want to do is very important in the process. If you're not sure what jobs are out there, I recommend doing coffee chats with friends or acquaintances with jobs or lifestyles that seem interesting to you. People love to talk about themselves and most people are happy to help.
 
 ## A message to tech companies
 If you're reading this and wondering how to attract interns and employees from more diverse backgrounds, I urge you to reconsider nontraditional routes. Not every good candidate has been coding since they were 6, some of us took a little longer to figure it all out.
-
-### Wait so what do you do everyday?
-Stay tuned for a future blog post about a day in the life of yours truly. :princess:
