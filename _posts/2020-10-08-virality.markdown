@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Going Viral as a Woman in Tech "
+date:   2018-07-28 17:42:05 -0700
+image: https://i.imgur.com/0dpllvD.png
+categories: writing
+---
+
+A few days ago I had an idea for a silly skit that I would post on TikTok. I spent about 5-10 min filming it with no script or plan, and posted it on [my TikTok](https://www.tiktok.com/@shmemmmy/video/6880323857903799558?source=h5_m) and my [Twitter](https://twitter.com/EmilyKager/status/1313303791186268160?s=20). I went to bed and in the morning was awoken to messages from my friends and acquaintances that I was suddenly on the front page of Reddit.
+
+<p style="text-align:center;">
+<img src="https://i.imgur.com/0dpllvD.png" alt="My video on the front page of reddit" width="400px"/>
+</p>
+
+I was excited about going viral and initially happy that people were liking my silly little video, but of course, as a woman with her face and body suddenly in front of millions of people, that faded quickly.
+
+The video was shared on a programming humor subreddit (without attribution I might add), but my annoyance and fear wasn’t in the missed clout or internet points, but it was that I lost control of being able to delete the post, delete comments, or block commenters when it was posted on a new platform.
+
+Here’s just a small example of the comments that started streaming in
+
+<p style="text-align:center;">
+<img src="https://i.imgur.com/pYyqNRq.png" alt="Sexist and sexualized commentary" width="400px"/>
+<img src="https://i.imgur.com/BsaeIjB.png" alt="Sexist and sexualized commentary" width="400px"/>
+<img src="https://i.imgur.com/Wvpe2tl.png" alt="Sexist and sexualized commentary" width="400px"/>
+<img src="https://i.imgur.com/GVm3IBV.png" alt="Sexist and sexualized commentary" width="400px"/>
+<img src="https://i.imgur.com/ilTNB89.png" alt="Sexist and sexualized commentary" width="400px"/>
+<img src="https://i.imgur.com/wcZpArc.png" alt="Sexist and sexualized commentary" width="400px"/>
+<img src="https://i.imgur.com/BOXJoSG.png" alt="Sexist and sexualized commentary" width="400px"/>
+</p>
+
+And how did this impact me personally? While the video was going viral, I felt like prey and couldn’t focus. I knew people were watching, judging, possibly trying to find me elsewhere on the internet to harass me in real time. I started getting notifications people were trying to log in to my internet accounts. I locked everything down with 2FA (which I should have had anyway). My past experiences have primed me to expect the worse and feel foolish to hope for the best.
+
+## What happened next:
+
+I reported all of the terrible comments (as did friends) but ~24 hours later, almost none of them had been removed. I reached out to the moderators of the subreddit with an appeal.
+
+> This is my first time being posted on Reddit, and I'm a bit disappointed by the moderation here. There are clearly disgusting sexual comments directed at me and unrelated to the video content or programming humor ranging from the stupid ("boobs") to the more troublesome - including people directing people to go to my social media to get a better look at my body parts and violent imagery about me. All of these comments I have been reporting over the past 24 hours and very few of them have been removed.
+> I would hope you can be more vigilant about moderating these types of comments because it does not create a very welcoming environment for women in tech. The sub isn't SexistProgrammerHumor and I am personally seeing and reading these sexualized comments about my body (as are thousands of other people including my friends, partner, acquaintances, and coworkers).
+> I would urge you to please add a new sub rule about these types of comments if you are interested in being a more welcoming place where I would feel comfortable posting my content. Also if a woman is the subject of a viral post, these types of comments and behavior should be expected and nipped in the bud as unacceptable.
+
+
+I wasn’t expecting much but the next day I received a response which was basically the best I could have hoped for. I do appreciate the response, and here’s to hoping this doesn’t happen on this sub again, but of course there are thousands of other subs/communities online and other women posting content still out there. 
+
+> First I'd like to apologize for what happened here, this is seriously unacceptable and we really screwed up moderating this as the tread should've been locked way earlier. I've removed most if not all of the offending comments and the most egregious offenders have been permanently banned.
+> We're definitely going to adjust our rules to ban sexualized comments of any kind, since again any behaviour like this is unacceptable and I'm sorry we didn't have clearer rules for this earlier.
+> We're also going to look into enlisting more mods, to help us better manage situations like this.
+> We're here to help in any way we can, so please don't hesitate to write back if anything else is going wrong.
+
+I’m sure some of you have thoughts about this and I will try to address them.
+
+## “But content creators should expect some level of criticism on the internet”
+
+Yes, you are correct. And there were some actual “criticisms” posted that I was able to brush off easily. One example: “You can see her hand move when she is starting/pausing the filming”. And you’re right! My video editing skills for a silly TikTok I didn’t know was going to go viral were sub par and this is a valid criticism.
+
+But there’s a huge difference between a critique of the filming process and threads discussing me personally - everything about how annoying my voice is to  debating my breast size (and directing people to go look at my social media to settle the debate). Whether you think these constitute valid criticisms or not, I think we can agree it will make people feel unsafe.
+
+I didn’t post the video on Reddit myself for this exact reason. I find it to be a pretty toxic place for women and POC. There are places on Reddit where this commentary is allowed and even encouraged (see all the NSFW and controversial subreddits), but a programming humor subreddit allowing this is just continuing the trend of making women feel unwelcome in this industry.
+
+## “Just ignore it! Don’t even read the comments!”
+
+While at first this seems like a solid idea to ignore the haters, so to speak, first of all if you’re no one is reading the worst comments, we’re not reporting these things so nothing will ever change. Secondly, a discussion that starts as mild can escalate to doxxing, organized dogpiling, or threats. Not knowing that this is happening could be dangerous.  
+
+## “These people are just incels and the scum of the internet”
+
+When I was in college there were 2 anonymous message boards (YikYak and ACB) where students would post terribly racist and sexist things in addition to harassing individual girls at the school (not me because I wasn't popular). It's especially alarming to me that this was at an Ivy League school where most of these kids were raised "well" and would continue to go on to start companies, go to the best graduate programs, and be the "future leaders" of our world. And I'm sure most of these kids would have NEVER said any of those things in person, but being anonymous gives you a strange power and a weird desire to say harmful things.
+
+I think people rush to dismiss these trolls as "the scum of the internet incels", but I think that this is wrong. I think it's way closer to home than that. I think they are Ivy League grads, fellow software engineers in SF, and people I ride the subway with. Normal people who really live normal lives in real life, but take out some internal rage online under the veil of anonymity.
+
+Further, I think dismissing them as lost causes or “just trolls” minimizes the problem and gives an excuse for their behavior.
+
+## I know what some of you are still thinking. I agree that is bad, but when you put yourself out there on the internet, this should be expected”
+
+I think this is bullshit. Why should a woman have to expect to be harassed every time she puts herself out there online?
+
+If somehow, you’ve made it this far as someone who has posted a nasty comment under the safety of anonymity before, I urge you to consider your words and how you are contributing to unsafe communities.
+
+I think we can all do better. We can call out and report this behavior as unacceptable when we see it. We can ask for and expect our communities to be held to a higher standard. I call on all of you to see and report these things. While it is not ideal that the onus is on us to take action, if we see it and don’t report it, nothing will ever change.
+
+Maybe one day, a woman will be able to post a silly video on the internet without fear.
