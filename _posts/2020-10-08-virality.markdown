@@ -6,7 +6,7 @@ image: https://i.imgur.com/0dpllvD.png
 categories: writing
 ---
 
-A few days ago I had an idea for a silly skit that I would post on TikTok. I spent about 5-10 minutes filming it with no script or plan, and posted it on [my TikTok](https://www.tiktok.com/@shmemmmy/video/6880323857903799558?source=h5_m) and my [Twitter](https://twitter.com/EmilyKager/status/1313303791186268160?s=20). I went to bed and in the morning was awoken to messages from my friends and acquaintances that I was suddenly on the front page of Reddit.
+A few days ago I had an idea for a silly skit that I would post on TikTok. I spent about 5-10 minutes filming it with no script or plan and posted it on [my TikTok](https://www.tiktok.com/@shmemmmy/video/6880323857903799558?source=h5_m) and my [Twitter](https://twitter.com/EmilyKager/status/1313303791186268160?s=20). I went to bed and in the morning was awoken to messages from my friends and acquaintances that I was suddenly on the front page of Reddit.
 
 <p style="text-align:center;">
 <img src="https://i.imgur.com/0dpllvD.png" alt="My video on the front page of reddit" width="400px"/>
@@ -28,7 +28,7 @@ Here’s just a small example of the comments that started streaming in
 <img src="https://i.imgur.com/BOXJoSG.png" alt="Sexist and sexualized commentary" width="400px"/>
 </p>
 
-And how did this impact me personally? While the video was going viral, I felt like prey and couldn’t focus. I knew people were watching, judging, possibly trying to find me elsewhere on the internet to harass me in real time. I started getting notifications people were trying to log in to my internet accounts. I locked everything down with 2FA (which I should have had anyway). My past experiences have primed me to expect the worse and feel foolish to hope for the best.
+And how did this impact me personally? While the video was going viral, I felt like prey and couldn’t focus. I knew people were watching, judging, possibly trying to find me elsewhere on the internet to harass me in real-time. I started getting notifications people were trying to log in to my internet accounts. I locked everything down with 2FA (which I should have had anyway). My past experiences have primed me to expect the worse and feel foolish to hope for the best.
 
 ### What happened next:
 
@@ -55,15 +55,15 @@ I’m sure some of you have thoughts about this and I will try to address them.
 
 ### “But content creators should expect some level of criticism on the internet”
 
-Yes, you are correct. And there were some actual “criticisms” posted that I was able to brush off easily. One example: “You can see her hand move when she is starting/pausing the filming”. And you’re right! My video editing skills for a silly TikTok I didn’t know was going to go viral were sub par and this is a valid criticism.
+Yes, you are correct. And there were some actual “criticisms” posted that I was able to brush off easily. One example: “You can see her hand move when she is starting/pausing the filming”. And you’re right! My video editing skills for a silly TikTok I didn’t know was going to go viral were sub-par and this is a valid criticism.
 
-But there’s a huge difference between a critique of the filming process and threads discussing me personally - everything about how annoying my voice is to  debating my breast size (and directing people to go look at my social media to settle the debate). Whether you think these constitute valid criticisms or not, I think we can agree it will make people feel unsafe.
+But there’s a huge difference between a critique of the filming process and threads discussing me personally - everything about how annoying my voice is to debating my breast size (and directing people to go look at my social media to settle the debate). Whether you think these constitute valid criticisms or not, I think we can agree it will make people feel unsafe.
 
 I didn’t post the video on Reddit myself for this exact reason. I find it to be a pretty toxic place for women and POC. There are places on Reddit where this commentary is allowed and even encouraged (see all the NSFW and controversial subreddits), but a programming humor subreddit allowing this is just continuing the trend of making women feel unwelcome in this industry.
 
 ### “Just ignore it! Don’t even read the comments!”
 
-While at first this seems like a solid idea to ignore the haters, so to speak, first of all if you’re no one is reading the worst comments, we’re not reporting these things so nothing will ever change. Secondly, a discussion that starts as mild can escalate to doxxing, organized dogpiling, or threats. Not knowing that this is happening could be dangerous.  
+While at first, it seems like a solid idea to ignore the haters, so to speak, first of all, if no one is reading the worst comments, we’re not reporting these things so nothing will ever change. Secondly, a discussion that starts as mild can escalate to doxxing, organized dogpiling, or threats. Not knowing that this is happening could be dangerous.  
 
 ### “These people are just incels and the scum of the internet”
 
