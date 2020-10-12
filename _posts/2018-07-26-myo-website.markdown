@@ -52,17 +52,29 @@ If you get lost in your directories, you can just run `cd` at any time to go to 
 
 You can also kill a process currently running on the command line with `Ctrl + C`.
 
+### Homebrew :beer:
+[Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily via the instructions on their website.
+As of Oct 2020 that would be pasting `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"` into your Terminal.
+
+To update versions of all of your Homebrew installed packages, you just type `brew upgrade` and then `brew cleanup` to remove the older files.
+
 ### Ruby :gem:
-[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this! Type into your command line `ruby -v` (and press Enter) to see which version of Ruby you have. Anything higher than 2.1 will work! If you don't have it, you can install it through their website. If you need or want to update, it's easiest to do that through Homebrew.
+[Ruby](https://www.ruby-lang.org/en/downloads/) is a programming language we need. You probably already have this installed, but we will need to install a separate version of Ruby that does not interfere with the one that came with your Mac. It's easiest to do that through Homebrew.
+
+`brew install ruby`
+
+and then you'll need to follow the instructions on successful install to add this to your PATH.
+
+In my case it was
+```
+If you need to have ruby first in your PATH run:
+  echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
+```
+
+Then you'll need to open a new terminal window to make the changes take effect via the app menu Shell -> New Window (you can also reload your profile if you know how to do that).
 
 #### Gem
 Gem is Ruby's command line tool for package managing, which lets you easily install Ruby libraries and programs (referred to as Gems).
-
-### Homebrew :beer:
-[Homebrew](https://brew.sh/) is package management software that allows you to easily install software on Mac via the command line. Get it quickly and easily by typing:
- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` in your command line.
-
-To update versions of all of your Homebrew installed packages, you just type `brew upgrade` and then `brew cleanup` to remove the older files.
 
 ### Jekyll
 Now we're going to get [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/). Jekyll is the static site generator written in Ruby and Bundler manages Gems. Just type `gem install bundler jekyll` in your command line to get both.
