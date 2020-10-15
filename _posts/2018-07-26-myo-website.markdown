@@ -134,9 +134,12 @@ The repository is still looking pretty empty though, so let's send the new files
 
 #### Three steps to push your changes to your repository
 Make sure you're in the project directory and then execute these three commands.
+
+As of 2020, GitHub changed the default branch name in repos to "main" instead of "master", so I've updated the instructions to match that change. If you for some reason still have the default branch name of "master", then use that instead of "main" in the following instructions.
+
 1. `git add .` to tell git what *added* files in the working directory you want to track changes of.
 2. Then run `git commit -m "Initial Commit"`. A commit marks the tracked files as done being changed (for now). The `-m` is for adding your commit message.
-3. Lastly run `git push -u origin master` to push your new website files from local to remote (GitHub).
+3. Lastly run `git push -u origin main` to push your new website files from local to remote (GitHub).
 
 ** Git Authentication **
 You'll probably hit an authentication prompt if this is your first time using git via the CLI.
@@ -219,7 +222,7 @@ First you'll need the favicon. I used this [favicon generator](https://favicon.i
 You created a great looking static website with blog capabilities, congratulations! :tada:
 
 ### Final Thoughts
-You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, or edit on multiple computers, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin master` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above.
+You don't *have* to use the text editor at all to continue to write on your blog, you can use the Github UI to add or edit posts. If you use both, or edit on multiple computers, you'll need to remember to keep your GitHub repo in sync with your local files. Pull down changes from the GitHub repo by running `git pull origin main` before editing files locally so you don't lose changes, and remember to push any changes so you can see them with the 3 push steps we talked about above.
 
 ### Thanks
 Thanks to my siblings for testing and editing this tutorial. Without them, this post would have way more exclamation points.
