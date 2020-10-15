@@ -18,6 +18,8 @@ categories: writing
 ### Disclaimer
 I should clarify that there are actually quicker ways to make a blog with Jekyll, namely forking someone else's blog or template which there are [plenty of on GitHub](https://github.com/barryclark/jekyll-now). But if you're curious about the entire process from scratch, being able to preview locally, version control, and customizing, stay tuned!
 
+This was last updated October 2020. It's possible something has become outdated since then.
+
 ## Let's get started!
 ### What you'll need!
 * 20 Minutes
@@ -79,11 +81,22 @@ Gem is Ruby's command line tool for package managing, which lets you easily inst
 ### Jekyll
 Now we're going to get [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/). Jekyll is the static site generator written in Ruby and Bundler manages Gems. Just type `gem install bundler jekyll` in your command line to get both.
 
+
 Now we actually have everything we need to create your website! In one command we can create a basic site in the current directory with all the files you need. Are you ready?
 
 `jekyll new your-awesome-site`
 
 Just replace `your-awesome-site` with whatever you want the project folder to be named.
+
+Common Troubleshooting:
+
+If you're seeing the error  `jekyll command not found` this might help:
+
+>Jekyll & Mac OS X 10.11+
+
+>With the introduction of System Integrity Protection, several directories that were previously writable are now considered system locations and are no longer available. Given these changes, there are a couple of simple ways to get up and running. One option is to change the location where the gem will be installed (again, using sudo only if necessary):
+
+Run this command: `gem install -n /usr/local/bin jekyll`, and then try the `jekyll new your-awesome-site` again.
 
 You now have a website! It may not seem like it, so let's prove it.
 
