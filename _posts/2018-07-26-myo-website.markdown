@@ -141,9 +141,7 @@ Make sure you're in the project directory and then execute these three commands.
 ** Git Authentication **
 You'll probably hit an authentication prompt if this is your first time using git via the CLI.
 
-You'll need to generate a personal access token and use this as your "password" on the command line in order to push to your remote.
-
-https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
+You'll need to generate a personal access token and use this as your "password" on the command line in order to push to your remote. [Follow instructions here to get your token on GitHub.](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token)
 
 
 **A note on git add:**
