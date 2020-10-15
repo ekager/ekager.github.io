@@ -109,7 +109,10 @@ Copy that address or just go to [http://localhost:4000/](http://localhost:4000/)
 Now let's put it on the world wide web!
 
 ## Git
-[Git](https://git-scm.com/) is version control software that helps you keep track of changes in a project. If you have Homebrew, run `brew install git` in the command line to get it.
+[Git](https://git-scm.com/) is version control software that helps you keep track of changes in a project. To check if you already have it run `git --version` on the command line. If it gives you a version you should be good!
+
+ If you don't have it, you can install it with Homebrew, run `brew install git` in the command line to get it.
+
 Now to start using version control for your project, make sure you're in the `your-awesome-site` directory, and run `git init`.
 
 Congrats you're now using version control!
