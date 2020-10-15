@@ -138,6 +138,13 @@ Make sure you're in the project directory and then execute these three commands.
 2. Then run `git commit -m "Initial Commit"`. A commit marks the tracked files as done being changed (for now). The `-m` is for adding your commit message.
 3. Lastly run `git push -u origin master` to push your new website files from local to remote (GitHub).
 
+** Git Authentication **
+You'll probably hit an authentication prompt if this is your first time using git via the CLI.
+
+You'll need to generate a personal access token and use this as your "password" on the command line in order to push to your remote.
+
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
+
 
 **A note on git add:**
 
