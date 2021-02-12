@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remote Interviewing Reflections"
+title:  "Virtual Interview Reflection"
 date:   2021-02-12 11:23:05 -0700
 categories: writing
 ---
@@ -15,9 +15,9 @@ Step two was deciding where I was even going to interview. I’m lucky to have a
 
 As I’ve alluded to, I am very grateful to have ended up with multiple fantastic offers. Here are some thoughts after interviewing (remotely) for really the first time!
 
-### Interview Fatigue is Real
+### Interview fatigue is real
 
-It’s really hard to keep up the on-site motivation and I quickly succumbed to interview fatigue. Towards the end of my timeline I started faltering on coding challenges and it was hard to keep energy up for behavioral or design interviews. You don’t always have control over on-site dates, but having them not spread over 3-4 weeks would have been much better. That, or maybe I should have just drank more coffee.
+It’s really hard to keep up the on-site motivation and I quickly succumbed to interview fatigue. Towards the end of my timeline I started faltering on coding challenges and it was hard to keep energy up for behavioral or design interviews. You don’t always have control over on-site dates, but having them not so spread out over 3-4 weeks would have been much better for me. That, or maybe I should have just drank more coffee.
 
 ### A personal touch goes a long way
 
@@ -29,7 +29,7 @@ I was genuinely interested in every company I interviewed with which made the de
 
 ### Keep an open mind
 
- As I mentioned above, my only criterium for new roles were really that I knew more than 0 people within the company and the team seemed nice to work with. I was coming from a product team and I thought that was what I wanted to keep doing, but after hearing about teams that were working on things much different than my old role, my mind was definitely opened a bit. It can be easy to lean on your current competencies and map them directly to a new role, but there’s also value in considering trying something pretty different to change pace.
+ As I mentioned above, my only criteria for new roles was really that I knew more than 0 people within the company and the team seemed nice to work with. I was coming from a product team and I thought that was what I wanted to keep doing, but after hearing about teams that were working on things much different than my old role, my mind was definitely opened a bit. It can be easy to lean on your current competencies and map them directly to a new role, but there’s also value in considering trying something pretty different to change pace.
 
 ### Lean on your network
 
