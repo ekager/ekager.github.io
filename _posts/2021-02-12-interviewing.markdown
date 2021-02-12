@@ -55,7 +55,7 @@ During this process, I met a woman working on a team that I didn’t end up join
 
 ### Ask the tough questions
 
-After passing the on-site, most companies encourage you follow-up with the team and manager to chat more casually. This is the time where you are 100% evaluating THEM and can and should ask the tough questions about company reputations, work life balance, D+I, what you first project could be, tough team relationships, any negative rumors you’ve heard, etc. Don’t shy away and thank them in advance for their transparency. No company is perfect, but you deserve to hear some of the negatives as well as the positives.
+After passing the on-site, most companies encourage you follow-up with the team and manager to chat more casually. This is the time where you are 100% evaluating THEM and can and should ask the tough questions about company reputations, work life balance, D+I, what you first project could be, tough team relationships, any negative rumors you’ve heard, etc. Don’t shy away and thank them in advance for their transparency. No company is perfect and you deserve to hear some of the negatives as well as the positives.
 
 ### Remote interviewing is weird
 
