@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reflections on Remote Interviewing"
+title:  "Remote Interviewing Reflections"
 date:   2021-02-12 11:23:05 -0700
 categories: writing
 ---
