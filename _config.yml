@@ -24,7 +24,7 @@ github_username:  ekager
 
 # Build settings
 markdown: kramdown
-remote_theme: broccolini/swiss
+remote_theme: ekager/swiss
 theme_color: magenta
 plugins:
   - jekyll-feed
