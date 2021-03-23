@@ -19,12 +19,8 @@ code {
 .prose {
 
   a {
-    color:$color-code
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-    }
+    color: $color-primary-link;
+    text-decoration: none;
   }
 
   p, ol, ul {
