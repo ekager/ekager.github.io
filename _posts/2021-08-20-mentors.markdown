@@ -1,0 +1,43 @@
+---
+layout: post
+title:  “Are you my mentor”
+date:   2021-08-20 11:23:05 -0700
+categories: writing
+---
+
+# I want to talk about mentorship today! 
+There’s a lot of confusion and anxiety around mentorship likely because common advice on career panels to students and new grads is always “FIND A MENTOR”. I know I heard it when I was in school. It’s drilled into any career conversation that without A MENTOR, you’re never going to grow in your career. 
+
+After some years of being a career person™️, I will share some short thoughts around mentors.
+
+# Think outside the formal box of a “MENTOR”
+I think the notion of “find a mentor” is well meaning and I think “mentorship” as a concept is important, but it in my experience it doesn’t have to come from 1 person and it doesn’t have to be in a formal “mentor/mentee” relationship. Once you start working, I find “mentorship” from the more experienced people on the team or other people in the organization comes somewhat naturally. 
+
+# Look for shared context or experiences
+Not to say that formal mentor/mentee relationships don’t work at all, but they can feel forced and if you don’t have shared work, context, or experiences to discuss you’ll run out of things to talk about quickly. 
+
+# Try your peers
+There are many different reasons to have a mentor, but if you’re seeking out someone to talk shop or ask advice around common workplace issues, you could also consider a peer. Mentorship doesn’t have to come from someone with decades of experience on you. Sometimes the best advice around your career can come from the people currently going through it with you.
+
+# Crowdsource your mentorship
+Mentorship doesn’t have to be a 1-1 meeting with someone you admire on a schedule. Tapping into huge networks of people in your industry on social media or in local meetup groups lets you gain insights from so many more voices in the community. For example, there are several online networks/chat spaces specifically to discuss and get advice on women in tech issues we’ve encountered at work. I’ve gotten a lot of great career advice from threads on Twitter from people I don’t even know! There are plenty of creators in every industry (like me!) who create career advice content and are available to answer questions or give advice publicly (just maybe not 1-1).
+
+# Find someone with time for you
+If you’re set on a 1-1 mentor/mentee relationship but you’re only reaching out to very public people you found on social media, they likely don’t have time to be a good mentor to you (or even respond to your email). There are multiple sites/programs I’ve heard of over the years that will match people looking for a mentor, with mentors who are available and willing. 
+
+# Don’t take rejection personally 
+I’ve gotten some nasty replies when I either don’t reply to these requests or politely say no. Pretty obvious advice, but don’t call someone a “bitch” who you were looking for mentorship from 5 minutes ago. 🥴
+
+# Find someone with applicable career advice
+If you’re a junior SWE looking for career growth advice from a CTO, their advice and recent experiences aren’t going to be very applicable to you (even if CTO is the ultimate goal). I personally find talking to people just a few years ahead of me in their careers much more valuable in terms of career growth. 
+ # Do a little research  I’ve documented my non-traditional path into tech in videos, on Twitter, and in blog posts and still get cold emails asking “how did you get into tech?”. I also get asks around “giving advice about careers in web development”. Very simple searching would show I have no experience with web development. Not everyone is as public with their background, but the point is to do a little work before reaching out to someone with an ask. 
+
+# Come with questions
+I’m not offended by a cold email, but people are much more likely to reply if you have questions or an ask. “I want you to be my mentor” vs “I see you recently got a new job. I’m going to be interviewing for senior engineering roles soon and would love to ask a few questions about your experiences with that job search”. People do love to talk about themselves, but it’s always a good rule of thumb to have some asks. What do you want to know? How can this person help you? 
+
+# WBU?
+A very common message I get is “can you be my mentor?”.  While I’m flattered and wish that I had time to be everyone’s mentor, I am sadly just one person already strapped for time. I do want to help - part of the reason I create career videos on TikTok and write (infrequent) blog posts is to “scale” some mentorship.
+
+In the past, I’ve personally reached out to busy people I didn’t know who have taken time to give me great advice, and I’m not discouraging that at all. But instead of a mentor/mentee relationship, a one time “informational interview” about their career/job/transition is an easier ask. 
+
+Mentorship is important, but I push back on the idea that every college student or new grad needs to immediately find an official mentor/mentee relationship. These days, I get most of my career advice from peers at work or in my social networks. Helpful career advice can come from many places! 
