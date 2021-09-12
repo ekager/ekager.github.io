@@ -1,10 +1,38 @@
 ---
 layout: post
-title:  “Plant Tour + Amazon Products”
+title:  “Plant Tour + Amazon Links”
 date:   2021-09-12 11:23:05 -0700
 categories: writing
 ---
 
-# Testing! 
+# Window plant setup + product links!
+
+You've all been asking, so I will provide! These are the products I use for my current plant setup. Enjoy!
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B085CLG874&asins=B085CLG874&linkId=02b8e54de9c16b80e6f327e4bf186fb6&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B088YKLLHZ&asins=B088YKLLHZ&linkId=face54a8287f76556b594ced4f44b880&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B07TP21WXS&asins=B07TP21WXS&linkId=8aaf5dda09f0788189cb7113bfacd560&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B08VHW4MLD&asins=B08VHW4MLD&linkId=0bd42c48029233520c4292922cfbbff8&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B091JW3LDD&asins=B091JW3LDD&linkId=8b1445c9534fc1f1ec978ad8a1d6077b&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B085HDLH46&asins=B085HDLH46&linkId=078f617adc6355395907cec40197a798&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B099WGBVBD&asins=B099WGBVBD&linkId=19c2036e5ef35b3aae954e67fa54bb0d&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B08NJ9LJ1H&asins=B08NJ9LJ1H&linkId=4a42c8ffda3807ea9fc2f12c5dba58ce&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ekager05-20&marketplace=amazon&amp;region=US&placement=B08VJ65PY2&asins=B08VJ65PY2&linkId=c6071cbabde5288c33f8e62899fbcdb9&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe>
