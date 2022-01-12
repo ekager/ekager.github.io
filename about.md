@@ -8,4 +8,4 @@ Hi! I'm Emily. I'm originally from the rolling farmland of Lancaster, Pennsylvan
 M-F I'm a mobile developer in San Francisco working mostly on Android. On the weekends I'm either hiking, biking, running, skiing, or hanging out with my dogs.
 
 ![Emily Kager](https://i.imgur.com/LF1AfZN.jpg)
-![Emily Kager](https://imgur.com/yJTKMeL)
+![Emily Kager](https://i.imgur.com/yJTKMeL.jpg)
