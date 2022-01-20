@@ -19,8 +19,8 @@ code {
 .prose {
 
   a {
-    color: $color-primary-link;
-    text-decoration: none;
+    color: $color-inverse;
+    text-decoration: underline dotted;
   }
 
   p, ol, ul {
