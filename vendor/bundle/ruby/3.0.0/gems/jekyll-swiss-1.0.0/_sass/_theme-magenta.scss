@@ -4,6 +4,7 @@
 $magenta: #CD2DA8;
 $black: #2F2323;
 $white: #fff;
+$green: #32d257;
 
 // Config
 $color-background: $magenta !default;
@@ -15,6 +16,7 @@ $color-text-accent: $magenta !default;
 $color-code: $magenta !default;
 $color-nav-link: $black !default;
 $color-primary-link: $magenta !default;
+$color-inverse: $green !default;
 
 // Import sass partials (used in all themes)
 @import
